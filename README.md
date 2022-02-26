@@ -10,3 +10,7 @@
 <div align = "center">
 <img align = "center" src="https://user-images.githubusercontent.com/100198728/155835684-9629cfb8-f24d-4a39-9748-fc6fa194925d.png" style="width:500px;height:68px;"></img>
 
+<h3 align="left">Ramkrishna Raut</h3>
+<h4 align="left"> Senior operations management professional | Business Strategist | <br>
+Program management | BPA operations & data science specialist </h4>
+
