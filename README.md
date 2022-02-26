@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=datateam-happy&label=PROFILE+VIEWS&color=31d5b3)
 ![GitHub followers](https://img.shields.io/github/followers/datateam-happy?style=social)
-[![Years Badge](https://badges.pufler.dev/years/datateam-happy?color=5b3aa7)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/datateam-happy?color=00aeff)](https://badges.pufler.dev)
 ![GitHub Repo stars](https://img.shields.io/github/stars/datateam-happy/datateam-happy?style=social)
 
 <div align = "left">
@@ -17,16 +17,16 @@
 <h2> GitHub Activity 🚀</h2> 
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/datateam-happy/datateam-happy?color=31d5b3)
-![GitHub last commit](https://img.shields.io/github/last-commit/datateam-happy/datateam-happy?color=5b3aa7)
+![GitHub last commit](https://img.shields.io/github/last-commit/datateam-happy/datateam-happy?color=00aeff)
 ![Repos Badge](https://badges.pufler.dev/repos/datateam-happy?color=31d5b3)
-![Relative date](https://img.shields.io/date/1645873728?color=5b3aa7) 
+![Relative date](https://img.shields.io/date/1645873728?color=00aeff) 
   
-<a href="https://github.com/datateam-happy/datateam-happy"><img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=datateam-happy&theme=buefy"></a>&nbsp;&nbsp;
-<a href="https://github.com/datateam-happy/datateam-happy"><img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=datateam-happy&show_icons=true&theme=buefy"></a>
+<a href="https://github.com/datateam-happy/datateam-happy"><img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=datateam-happy&theme=algolia"></a>&nbsp;&nbsp;
+<a href="https://github.com/datateam-happy/datateam-happy"><img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=datateam-happy&show_icons=true&theme=algolia"></a>
 <br>
   
-<a href="https://github.com/datateam-happy/datateam-happy"><img align="center" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datateam-happy&layout=compact&theme=buefy">&nbsp;&nbsp;
-<a href="https://github.com/datateam-happy/datateam-happy"><img align="center" width="60%" src="https://activity-graph.herokuapp.com/graph?username=datateam-happy&theme=jolly&border_radius=100"></a>
+<a href="https://github.com/datateam-happy/datateam-happy"><img align="center" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datateam-happy&layout=compact&theme=algolia">&nbsp;&nbsp;
+<a href="https://github.com/datateam-happy/datateam-happy"><img align="center" width="60%" src="https://activity-graph.herokuapp.com/graph?username=datateam-happy&bg_color=040c2c&color=ffffff&line=0fa1cd&point=2dde98&area=true&hide_border=true"></a>
 <hr></hr>
 <img align = "center" src="https://user-images.githubusercontent.com/100198728/155835684-9629cfb8-f24d-4a39-9748-fc6fa194925d.png" style="width:500px;height:68px;"></img>
 <div align = "center">
