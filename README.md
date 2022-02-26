@@ -1,5 +1,5 @@
 <div align = "left">
-<img align = "center" src="https://happyness.net/img/logo.png" style="width:150px;height:58px;"></img>
+<img align = "center" src="https://happyness.net/img/logo.png" style="width:125px;height:48px;"></img>
 
 ### FASTEST GROWING
 ### FULLY DIGITAL
