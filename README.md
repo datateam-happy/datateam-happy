@@ -28,9 +28,9 @@
 <a href="https://github.com/datateam-happy/datateam-happy"><img align="center" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datateam-happy&layout=compact&theme=buefy">&nbsp;&nbsp;
 <a href="https://github.com/datateam-happy/datateam-happy"><img align="center" width="60%" src="https://activity-graph.herokuapp.com/graph?username=datateam-happy&theme=jolly&border_radius=100"></a>
 <hr></hr>
+<img align = "center" src="https://user-images.githubusercontent.com/100198728/155835684-9629cfb8-f24d-4a39-9748-fc6fa194925d.png" style="width:500px;height:68px;"></img>
 <div align = "center">
-<img align = "center" src="https://user-images.githubusercontent.com/100198728/155835684-9629cfb8-f24d-4a39-9748-fc6fa194925d.png" style="width:500px;height:68px;"></img></div>
-<div align = "center">
+<br> 
 <table style="width:100%">
 <tr><th><div align = "left">
 <h3 align="left">01. Ramkrishna Raut</h3>
@@ -74,6 +74,5 @@ SQL | (learning Blockchain ) </h4>
 [![GitHub](https://img.shields.io/badge/Aadarsh_Ballari-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ballariadarsh09)
 </td>
   </tr>
-  
 </table>
   </div>
