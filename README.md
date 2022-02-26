@@ -14,14 +14,20 @@
 <hr></hr>
 
 <div align = "center">
-<h2> GitHub Activity 🚀</h2> 
+<h1> GitHub Activity 🚀</h1> 
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/datateam-happy/datateam-happy?color=31d5b3)
 ![GitHub last commit](https://img.shields.io/github/last-commit/datateam-happy/datateam-happy?color=5b3aa7)
 ![Repos Badge](https://badges.pufler.dev/repos/datateam-happy?color=31d5b3)
 ![Relative date](https://img.shields.io/date/1635386951?color=5b3aa7) 
   
+<a href="https://github.com/datateam-happy/datateam-happy"><img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=datateam-happy&theme=buefy"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/datateam-happy/datateam-happy"><img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=datateam-happy&show_icons=true&theme=buefy"></a>
+<br>
+
+<a href="https://github.com/datateam-happy/datateam-happy"><img align="left" width="55%" src="https://activity-graph.herokuapp.com/graph?username=datateam-happy&theme=vue-dark&border_radius=100"></a>
   
+
 <div align = "center">
 <img align = "center" src="https://user-images.githubusercontent.com/100198728/155835684-9629cfb8-f24d-4a39-9748-fc6fa194925d.png" style="width:500px;height:68px;"></img>
 
