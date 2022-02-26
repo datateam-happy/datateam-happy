@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=7Vivek&label=PROFILE+VIEWS&color=31d5b3)
+![](https://komarev.com/ghpvc/?username=datateam-happy&label=PROFILE+VIEWS&color=31d5b3)
 ![GitHub followers](https://img.shields.io/github/followers/datateam-happy?style=social)
 [![Years Badge](https://badges.pufler.dev/years/datateam-happy?color=5b3aa7)](https://badges.pufler.dev)
 ![GitHub Repo stars](https://img.shields.io/github/stars/datateam-happy/datateam-happy?style=social)
@@ -63,7 +63,7 @@ Applied ML </h4>
 
 <td><div align = "left">
 <h3 align="left">04. Aadarsh Ballari</h3>
-<h4 align="left"> REACT NATIVE | Flutter | Node js | mongo db| <br>
+<h4 align="left"> REACT NATIVE | Flutter | Node js | mongo db | <br>
 SQL | (learning Blockchain ) </h4>
 <h5 align="left">🌎 Mumbai, Maharashtra, India</h5>
   
