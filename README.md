@@ -1,5 +1,13 @@
 <div align = "left">
 <img align = "center" src="https://happyness.net/img/logo.png" style="width:125px;height:48px;"></img>
+
+<br>
+
+![](https://komarev.com/ghpvc/?username=7Vivek&label=PROFILE+VIEWS&color=41B883)
+![GitHub followers](https://img.shields.io/github/followers/7Vivek?style=social)
+[![Years Badge](https://badges.pufler.dev/years/7Vivek?color=0d98ba)](https://badges.pufler.dev)
+![GitHub Repo stars](https://img.shields.io/github/stars/7Vivek/7Vivek?style=social)
+
 <img align = "right" src="https://cdn.dribbble.com/users/2424870/screenshots/9681857/media/e2ba35a0106e60cb0960f3963304cef8.gif" style="width:350px;height:262px;"></img>
 
 ### FASTEST GROWING
@@ -7,6 +15,16 @@
 ### LENDING FINTECH
 #### targeting a multi billion dollar credit gap impacting small business owners.
 <hr></hr>
+
+<div align = "center">
+<h2> GitHub Activity 🚀</h2> 
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/datateam-happy/datateam-happy?color=31d5b3)
+![GitHub last commit](https://img.shields.io/github/last-commit/datateam-happy/datateam-happy?color=5b3aa7)
+![Repos Badge](https://badges.pufler.dev/repos/datateam-happy?color=31d5b3)
+![Relative date](https://img.shields.io/date/1635386951?color=5b3aa7) 
+  
+  
 <div align = "center">
 <img align = "center" src="https://user-images.githubusercontent.com/100198728/155835684-9629cfb8-f24d-4a39-9748-fc6fa194925d.png" style="width:500px;height:68px;"></img>
 
@@ -22,6 +40,8 @@ Program management | BPA operations & data science specialist </h4>
 <div align = "left">
 <h3 align="left">02. Pankaj Todkar</h3>
 <h4 align="left"> Data Architect </h4>
-<h5 align="left">🌎 Thane, Maharashtra, India</h5>
+<h5 align="left">🌎 Thane, Maharashtra, India</h5>   
   
 [![LinkedIn](https://img.shields.io/badge/Pankaj_Todkar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pankaj-todkar-992b2519/)
+
+  
