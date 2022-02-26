@@ -10,7 +10,12 @@
 <div align = "center">
 <img align = "center" src="https://user-images.githubusercontent.com/100198728/155835684-9629cfb8-f24d-4a39-9748-fc6fa194925d.png" style="width:500px;height:68px;"></img>
 
+<div align = "left">
 <h3 align="left">Ramkrishna Raut</h3>
 <h4 align="left"> Senior operations management professional | Business Strategist | <br>
 Program management | BPA operations & data science specialist </h4>
+<h5 align="left">🌎 Mumbai, Maharashtra, India</h5>
+  
+[![LinkedIn](https://img.shields.io/badge/Ramkrishna_Raut-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramkrishna-raut-a76a673b/)
+[![Gmail](https://img.shields.io/badge/ramkrishnaraut84@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
 
