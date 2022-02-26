@@ -6,6 +6,6 @@
 ### FULLY DIGITAL 
 ### LENDING FINTECH
 #### targeting a multi billion dollar credit gap impacting small business owners.
-<br>
+
 <hr></hr>
 
