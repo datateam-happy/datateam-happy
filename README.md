@@ -21,8 +21,8 @@
 ![Repos Badge](https://badges.pufler.dev/repos/datateam-happy?color=31d5b3)
 ![Relative date](https://img.shields.io/date/1635386951?color=5b3aa7) 
   
-<a href="https://github.com/datateam-happy/datateam-happy"><img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=datateam-happy&theme=buefy"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/datateam-happy/datateam-happy"><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=datateam-happy&show_icons=true&theme=buefy"></a>
+<a href="https://github.com/datateam-happy/datateam-happy"><img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=datateam-happy&theme=buefy"></a>&nbsp;&nbsp;
+<a href="https://github.com/datateam-happy/datateam-happy"><img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=datateam-happy&show_icons=true&theme=buefy"></a>
 <br>
 
 <a href="https://github.com/datateam-happy/datateam-happy"><img align="left" width="55%" src="https://activity-graph.herokuapp.com/graph?username=datateam-happy&theme=vue-dark&border_radius=100"></a>
