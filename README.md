@@ -1,7 +1,7 @@
-![](https://komarev.com/ghpvc/?username=7Vivek&label=PROFILE+VIEWS&color=41B883)
-![GitHub followers](https://img.shields.io/github/followers/7Vivek?style=social)
-[![Years Badge](https://badges.pufler.dev/years/7Vivek?color=0d98ba)](https://badges.pufler.dev)
-![GitHub Repo stars](https://img.shields.io/github/stars/7Vivek/7Vivek?style=social)
+![](https://komarev.com/ghpvc/?username=7Vivek&label=PROFILE+VIEWS&color=31d5b3)
+![GitHub followers](https://img.shields.io/github/followers/datateam-happy?style=social)
+[![Years Badge](https://badges.pufler.dev/years/datateam-happy?color=5b3aa7)](https://badges.pufler.dev)
+![GitHub Repo stars](https://img.shields.io/github/stars/datateam-happy/datateam-happy?style=social)
 
 <div align = "left">
 <img align = "center" src="https://happyness.net/img/logo.png" style="width:125px;height:48px;"></img>
