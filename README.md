@@ -14,7 +14,7 @@
 <hr></hr>
 
 <div align = "center">
-<h1> GitHub Activity 🚀</h1> 
+<h2> GitHub Activity 🚀</h2> 
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/datateam-happy/datateam-happy?color=31d5b3)
 ![GitHub last commit](https://img.shields.io/github/last-commit/datateam-happy/datateam-happy?color=5b3aa7)
@@ -24,8 +24,9 @@
 <a href="https://github.com/datateam-happy/datateam-happy"><img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=datateam-happy&theme=buefy"></a>&nbsp;&nbsp;
 <a href="https://github.com/datateam-happy/datateam-happy"><img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=datateam-happy&show_icons=true&theme=buefy"></a>
 <br>
-
-<a href="https://github.com/datateam-happy/datateam-happy"><img align="left" width="55%" src="https://activity-graph.herokuapp.com/graph?username=datateam-happy&theme=vue-dark&border_radius=100"></a>
+  
+<a href="https://github.com/7Vivek/7Vivek"><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7Vivek&layout=compact&theme=vue-dark">
+<a href="https://github.com/datateam-happy/datateam-happy"><img align="right" width="55%" src="https://activity-graph.herokuapp.com/graph?username=datateam-happy&theme=jolly&border_radius=100"></a>
   
 
 <div align = "center">
