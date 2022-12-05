@@ -19,9 +19,6 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/datateam-happy/datateam-happy?color=00aeff)
 ![Relative date](https://img.shields.io/date/1645873728?color=00aeff) 
   
-<a href="https://github.com/datateam-happy/datateam-happy"><img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=datateam-happy&theme=algolia"></a>&nbsp;&nbsp;
-<a href="https://github.com/datateam-happy/datateam-happy"><img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=datateam-happy&show_icons=true&theme=algolia"></a>
-<br>
-  
-<a href="https://github.com/datateam-happy/datateam-happy"><img align="center" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datateam-happy&layout=compact&theme=algolia">&nbsp;&nbsp;
-<a href="https://github.com/datateam-happy/datateam-happy"><img align="center" width="60%" src="https://activity-graph.herokuapp.com/graph?username=datateam-happy&bg_color=040c2c&color=ffffff&line=0fa1cd&point=2dde98&area=true&hide_border=true"></a>
+<a href="https://github.com/datateam-happy/datateam-happy"><img align="center" width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=datateam-happy&theme=algolia"></a>
+<a href="https://github.com/datateam-happy/datateam-happy"><img align="center" width="55%" src="https://github-readme-stats.vercel.app/api?username=datateam-happy&show_icons=true&theme=algolia"></a>
+<a href="https://github.com/datateam-happy/datateam-happy"><img align="center" width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datateam-happy&layout=compact&theme=algolia">
